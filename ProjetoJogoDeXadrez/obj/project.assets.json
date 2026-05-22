@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projetosC-sharp\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj",
+      "projectUniqueName": "C:\\Users\\Antonio\\Desktop\\Projetos de Programação\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj",
       "projectName": "ProjetoJogoDeXadrez",
-      "projectPath": "C:\\projetosC-sharp\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj",
+      "projectPath": "C:\\Users\\Antonio\\Desktop\\Projetos de Programação\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj",
       "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-      "outputPath": "C:\\projetosC-sharp\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\obj\\",
+      "outputPath": "C:\\Users\\Antonio\\Desktop\\Projetos de Programação\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
