@@ -1,4 +1,5 @@
 ﻿using System;
+using ProjetoJogoDeXadrez;
 using tabuleiro;
 
 namespace Jogo_Xadrex
@@ -12,6 +13,11 @@ namespace Jogo_Xadrex
 
 
             Tabuleiro tab = new Tabuleiro(8, 8);
+
+            Tela.imprimirTabuleiro(tab);
+
+
+
 
             Console.WriteLine();
 

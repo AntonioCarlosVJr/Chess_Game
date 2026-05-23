@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoJogoDeXadrez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e47e0e3aa3560f2d7e0d12a8fea1246dbbeed891")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56ac3e2700441ebec22e359b17418abf54a3b678")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoJogoDeXadrez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoJogoDeXadrez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
