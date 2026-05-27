@@ -45,6 +45,10 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Torre.cs",
@@ -69,10 +73,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T02:04:03.043Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -147,7 +147,7 @@
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\Program.cs",
               "ToolTip": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\Program.cs",
               "RelativeToolTip": "ProjetoJogoDeXadrez\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBMAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T23:58:32.528Z",
               "EditorCaption": ""
