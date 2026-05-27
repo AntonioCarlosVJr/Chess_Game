@@ -13,6 +13,15 @@ namespace Jogo_Xadrex
         {
 
 
+
+            PosicaoXadrez pos = new PosicaoXadrez('c', 7);
+
+            Console.WriteLine(pos);
+
+            Console.WriteLine(pos.toPosicao());
+
+
+            /*
             Tabuleiro tab = new Tabuleiro(8, 8);
 
             tab.colocarPeca(new Torre(tab, Cor.Preta), new Posicao(0, 0));
@@ -21,7 +30,7 @@ namespace Jogo_Xadrex
 
 
             Tela.imprimirTabuleiro(tab);
-
+            */
 
 
 

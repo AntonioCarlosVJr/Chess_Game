@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\xadrez\\posicaoxadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\tabuleiro\\tabuleiroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\xadrez\\torre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\tabuleiro\\posicao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|solutionrelative:projetojogodexadrez\\tabuleiro\\tabuleiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{269D316B-A26F-44DD-B156-0CF3F37F6560}|ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez.csproj|c:\\users\\antonio\\desktop\\projetos de programa\u00E7\u00E3o\\projetojogodexadrez\\projetojogodexadrez\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +59,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PosicaoXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\xadrez\\PosicaoXadrez.cs",
+              "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\xadrez\\PosicaoXadrez.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\xadrez\\PosicaoXadrez.cs",
+              "RelativeToolTip": "ProjetoJogoDeXadrez\\xadrez\\PosicaoXadrez.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T00:32:17.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TabuleiroException.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\TabuleiroException.cs",
+              "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\tabuleiro\\TabuleiroException.cs",
+              "ToolTip": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\TabuleiroException.cs",
+              "RelativeToolTip": "ProjetoJogoDeXadrez\\tabuleiro\\TabuleiroException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-27T00:20:49.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Torre.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\xadrez\\Torre.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\xadrez\\Torre.cs",
@@ -58,12 +92,11 @@
               "RelativeToolTip": "ProjetoJogoDeXadrez\\xadrez\\Torre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T02:07:09.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T02:07:09.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Rei.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\xadrez\\Rei.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\xadrez\\Rei.cs",
@@ -71,12 +104,11 @@
               "RelativeToolTip": "ProjetoJogoDeXadrez\\xadrez\\Rei.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T02:04:03.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T02:04:03.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Tela.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\Tela.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\Tela.cs",
@@ -84,25 +116,24 @@
               "RelativeToolTip": "ProjetoJogoDeXadrez\\Tela.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T01:40:13.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T01:40:13.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Tabuleiro.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
               "ToolTip": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
               "RelativeToolTip": "ProjetoJogoDeXadrez\\tabuleiro\\Tabuleiro.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-23T01:32:10.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Peca.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\Peca.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\tabuleiro\\Peca.cs",
@@ -110,12 +141,11 @@
               "RelativeToolTip": "ProjetoJogoDeXadrez\\tabuleiro\\Peca.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA1wA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T01:30:02.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T01:30:02.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Cor.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\Cor.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\tabuleiro\\Cor.cs",
@@ -123,12 +153,11 @@
               "RelativeToolTip": "ProjetoJogoDeXadrez\\tabuleiro\\Cor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-23T01:28:01.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-23T01:28:01.782Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Posicao.cs",
               "DocumentMoniker": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\tabuleiro\\Posicao.cs",
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\tabuleiro\\Posicao.cs",
@@ -136,8 +165,7 @@
               "RelativeToolTip": "ProjetoJogoDeXadrez\\tabuleiro\\Posicao.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAmwA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T02:05:42.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T02:05:42.397Z"
             },
             {
               "$type": "Document",
@@ -147,7 +175,7 @@
               "RelativeDocumentMoniker": "ProjetoJogoDeXadrez\\Program.cs",
               "ToolTip": "C:\\Users\\Antonio\\Desktop\\Projetos de Programa\u00E7\u00E3o\\ProjetoJogoDeXadrez\\ProjetoJogoDeXadrez\\Program.cs",
               "RelativeToolTip": "ProjetoJogoDeXadrez\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T23:58:32.528Z",
               "EditorCaption": ""
