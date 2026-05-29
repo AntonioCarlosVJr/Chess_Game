@@ -3,7 +3,7 @@ using tabuleiro;
 
 namespace ProjetoJogoDeXadrez.tabuleiro
 {
-    class Peca
+    abstract class Peca
     {
 
         public Posicao posicao {  get; set; }
@@ -21,12 +21,14 @@ namespace ProjetoJogoDeXadrez.tabuleiro
 
         }
 
+
         public void incrementarQteMovimentos()
         {
             qteMovimentos++;
         }
 
-
+        public abstract bool[,] movimentosPossiveis();
+        
 
     }
 }
