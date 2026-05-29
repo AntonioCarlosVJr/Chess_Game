@@ -21,7 +21,10 @@ namespace ProjetoJogoDeXadrez.tabuleiro
 
         }
 
-
+        public void incrementarQteMovimentos()
+        {
+            qteMovimentos++;
+        }
 
 
 
