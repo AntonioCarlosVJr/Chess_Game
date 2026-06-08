@@ -30,11 +30,10 @@ namespace Jogo_Xadrex
                     {
 
                         Console.Clear();
-                        Tela.imprimirTabuleiro(partida.tab);
+                        Tela.imprimirPartida(partida);
                         
                         Console.WriteLine();
-                        Console.WriteLine("Turno: " + partida.turno);
-                        Console.WriteLine("Aguaradando jogada: " + partida.jogadorAtual);
+                        
 
 
 
