@@ -31,8 +31,13 @@ namespace ProjetoJogoDeXadrez
             Console.Write("Brancas: ");
             imprimirConjunto(partida.pecasCapturadas(Cor.Branca));
             Console.WriteLine();
+
+            ConsoleColor aux = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.Write("Pretas: ");
             imprimirConjunto(partida.pecasCapturadas(Cor.Preta));
+            Console.ForegroundColor= aux;
+            Console.WriteLine(" ");
 
         }
         
